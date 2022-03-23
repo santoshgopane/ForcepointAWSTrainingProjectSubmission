@@ -10,3 +10,4 @@ Add your name and project to the list below by submitting a Pull Request!
 ## Submissions:
 
 1. Yogesh Tembe | [Github](https://github.com/YogeshTembe/swabhav-training/tree/main/aws/ecartapp)
+2. Hardik Trivedi | [Github](https://github.com/Hardik13579/SwabhavTraining-AWS)
